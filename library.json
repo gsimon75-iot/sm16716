@@ -1,0 +1,20 @@
+{
+    "name": "sm16716",
+    "keywords": "sm16716,led",
+    "description": "SM16716 and SM16726 LED driver library for Arduino AVR and ESP8266",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gsimon75/sm16716.git"
+    },
+    "version": "1.0.0",
+    "license": "bsd-2-clause",
+    "frameworks": "arduino",
+    "platforms": ["atmelavr", "espressif8266"],
+    "dependencies": [
+    ],
+    "authors": {
+        "name": "Gabor Simon",
+        "email": "gabor.simon75@gmail.com",
+        "maintainer": true
+    }
+}
